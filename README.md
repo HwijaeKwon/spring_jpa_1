@@ -1,4 +1,4 @@
-# spring_jpa_
+# spring_jpa_basic
 Spring JPA Basic
 
 inflearn 강의 스프링 부트와 JPA 활용1, 2 실습 프로젝트
